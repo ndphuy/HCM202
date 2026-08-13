@@ -1,4 +1,4 @@
-﻿"use client";
+"use client";
 
 import React, { useState } from "react";
 import { BookOpen, Users, Building2, Heart } from "lucide-react";

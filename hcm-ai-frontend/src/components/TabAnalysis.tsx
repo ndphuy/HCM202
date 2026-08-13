@@ -1,4 +1,4 @@
-﻿"use client";
+"use client";
 
 import React from "react";
 import { Globe, Sparkles, ChevronRight, CheckCircle, AlertTriangle } from "lucide-react";

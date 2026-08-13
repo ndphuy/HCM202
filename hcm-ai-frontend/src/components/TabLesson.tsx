@@ -1,4 +1,4 @@
-﻿"use client";
+"use client";
 
 import React from "react";
 import { Lightbulb, Target, ShieldCheck, Landmark } from "lucide-react";
