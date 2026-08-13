@@ -1,0 +1,50 @@
+ra và làm tăng giá trị.
+Để có được giá trị thặng dư, nền sản xuất xã hội phải đạt đến một
+ trình độ nhất định.
+Trình độ đó phản ánh, người lao động chỉ phải hao phí
+ một phần thời gian lao động (trong thời gian lao động đã được thỏa thuận
+ mua bán theo nguyên tắc ngang giá) là có thể bù đắp được giá trị hàng hóa
+ sức lao động, bộ phận này là thời gian lao động tất yếu.
+Ngoài thời gian tất yếu đó, vẫn trong nguyên tắc ngang giá đã thoả
+ thuận, người lao động phải làm việc trong sự quản lý của người mua hàng
+ hóa sức lao động, và sản phẩm làm ra thuộc sở hữu của nhà tư bản, thời
+ gian đó là thời gian lao động thặng dư.
+Thí dụ:
+Giả sử sản xuất giá trị thặng dư được thực hiện dưới hình thái sản
+ xuất cụ thể là sản xuất sợi và trong quá trình sản xuất này, nhà tư bản thuần
+ tuý chỉ đóng vai trò là chủ sở hữu và chỉ có người công nhân là người lao
+ động trực tiếp.
+Để tiến hành sản xuất sợi, nhà tư bản phải ứng ra số tiền như sau:
+50 USD để mua 50 kg bông,
+3 USD hao mòn máy móc để kéo 50 kg bông thành sợi,
+15 USD mua hàng hoá sức lao động để sử dụng trong 1 ngày làm
+việc 8 giờ và điều này được người công nhân thoả thuận chấp nhận.
+Nhà tư bản ứng ra tổng số 68 USD.
+Trong quá trình sản xuất sợi, bằng lao động cụ thể, người công nhân
+ biến bông thành sợi.
+Giá trị của bông và hao mòn máy móc được chuyển
+ vào giá trị của sợi.
+Bằng lao động trừu tượng người công nhân tạo ra giá trị
+ mới, giả định, trong 4 giờ lao động công nhân đã chuyển toàn bộ 50 kg
+ bông thành sợi.
+Giá trị sợi gồm:
+
+The following table:
+"Giá trị 50 kg bông chuyển vào :
+","50 USD
+"
+"Hao mòn máy móc:
+","3 USD
+"
+"Giá trị mới bằng giá trị sức lao động:
+","15 USD
+"
+"Tổng cộng:
+","68 USD
+"
+
+Nhà tư bản ứng ra 68 USD, giả định sợi được bán hết, thu về 68
+ USD.
+Nếu quá trình lao động dừng lại tại điểm này thì không có giá trị
+ thặng dư, tiền ứng ra chưa trở thành tư bản.
+56

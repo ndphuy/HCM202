@@ -1,0 +1,36 @@
+Ở đây, tỷ suất lợi nhuận ở ngành da là cao nhất, nên các doanh
+ nghiệp ở ngành cơ khí (thậm trí cả ở ngành dệt) sẽ di chuyển vốn của mình
+ sang đầu tư vào ngành da.
+Đến một thời điểm nhất định, sản phẩm của ngành da sẽ tăng lên
+ (cung lớn hơn cầu), làm cho giá cả hàng hoá ở ngành da sẽ hạ xuống thấp
+ hơn giá trị của nó và tỷ suất lợi nhuận ở ngành này giảm xuống.
+Ngược lại, sản phẩm của ngành cơ khí sẽ giảm đi (cung nhỏ hơn
+ cầu), nên giá cả sẽ cao hơn giá trị và do đó tỷ suất lợi nhuận ở ngành cơ khí
+ sẽ tăng lên.
+Nếu tỷ suất lợi nhuận ở ngành cơ khí cao hơn ngành da thì các doanh
+ nghiệp lại chuyển vốn đầu tư vào ngành cơ khí.
+Đây gọi là hiện tượng tự do
+ di chuyển vốn sản xuất kinh doanh.
+Sự tự do di chuyển vốn vào các ngành
+ chỉ tạm dừng lại khi tỷ suất lợi nhuận ở tất cả các ngành đều xấp xỉ bằng
+ nhau, tức là hình thành tỷ suất lợi nhuận bình quân $(overline{P}^{prime})$.
+Về cách tính, lợi nhuận bình quân (ký hiệu là P ) được tính theo tỷ
+ suất lợi nhuận bình quân (là con số trung bình của các tỷ suất lợi nhuận, ký
+ hiệu là P').
+Tỷ suất lợi nhuận bình quân được tính bằng số bình quân gia quyền
+ của các tỷ suất lợi nhuận như sau:
+$overline{p^{prime}}=frac{Sigma p}{Sigma(c+v)}times100%$
+Trong nền kinh tế thị trường cạnh tranh giữa các ngành tất yếu dẫn
+tới hình thành lợi nhuận bình quân.
+Lợi nhuận bình quân là số lợi nhuận bằng nhau của như tư bản như
+ nhau đầu tư vào các ngành khác nhau (ký hiệu là P ).
+Nếu ký hiệu giá trị tư bản ứng trước là K thì lợi nhuận bình quân
+ được tính như sau:
+$overline{P}=overline{P}^{prime}_{x}K$
+Khi lợi nhuận chuyển hóa thành lợi nhuận bình quân thì giá trị của
+ hàng hóa chuyển hóa thành giá cả sản xuất.
+Giá cả sản xuất được tính như
+ sau: $GCSX=k+overline{P}$
+Những điều kiện hình thành tỷ suất lợi nhuận bình quân, lợi nhuận
+ bình quân, giá cả sản xuất bao gồm: tư bản tự do di chuyển và sức lao động
+74

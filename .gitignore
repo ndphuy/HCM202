@@ -1,4 +1,4 @@
-﻿# Python
+# Python
 __pycache__/
 *.py[cod]
 *.pyo
@@ -15,7 +15,6 @@ node_modules/
 # Data
 hcm-ai-backend/data/chroma_db/
 hcm-ai-backend/data/parsed_text/
-hcm-ai-backend/data/raw_documents/
 
 # IDEs
 .vscode/

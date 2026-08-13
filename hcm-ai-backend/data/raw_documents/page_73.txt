@@ -1,0 +1,51 @@
+Để có giá trị thặng dư, thời gian lao động phải vượt quá cái điểm bù
+ lại giá trị sức lao động.
+Lưu ý là nhà tư bản mua sức lao động của công
+ nhân để sử dụng trong 8 giờ (với 15 USD như đã thỏa thuận), không phải
+ là 4 giờ.
+Công nhân phải tiếp tục làm việc trong 4 giờ nữa.
+Trong 4 giời này,
+ nhà tư bản chỉ phải bỏ thêm 50 USD để mua 50 kg bông và 3 USD hao
+ mòn máy móc.
+Quá trình lao động 4 giờ sau diễn ra như quá trình đầu.
+Số sợi được
+ tạo ra trong 4 giờ lao động sau cũng có giá trị 68 USD.
+Con số này bao
+ gồm:
+
+The following table:
+"Giá trị của bông chuyển vào:
+","50 USD
+"
+"Hao mòn máy móc:
+","3 USD
+"
+"Giá trị mới tạo thêm:
+","15 USD
+"
+
+Sau khi sợi được bán hết, giá trị thu về sau 8h lao động của công
+nhân là: $68~USD+68~USD=136$ USD.
+Tổng cộng, nhà tư bản ứng ra $100~USD+6~USD+15~USD=121$
+USD, trong khi đó số sợi sản xuất ra có giá trị 136 USD.
+Do đó, nhà tư bản thu được lượng giá trị thặng dư là 136 USD - 121
+ USD  15 USD.
+Phần chênh lệch này là giá trị thặng dư. Đây là giá trị mới do người
+ lao động tạo ra ngoài hao phí lao động tất yếu.
+Phần giá trị mới này nhà tư
+ bản nắm lấy do địa vị là người chủ sở hữu.
+Như vậy, giá trị thặng dư là bộ phận giá trị mới dôi ra ngoài giá trị
+ sức lao động do công nhân tạo ra, là kết quả của lao động không công của
+ công nhân cho nhà tư bản.
+Ký hiệu giá trị thặng dư là m.
+Sở dĩ được gọi là dôi ra vì người lao động chỉ cần một phần nhất
+ định thời gian hao phí sức lao động đã được thỏa thuận theo nguyên tắc
+ ngang giá là đã đủ để bù đắp giá trị hàng hóa sức lao động của mình.
+Thoả
+ thuận này được phản ánh ở một bản hợp đồng lao động giữa người mua và
+ người bán hàng hóa sức lao động.
+Tất nhiên, trên thực tế trong nền kinh tế
+ thị trường, thỏa thuận này rất khó đạt được mức ngang giá, nghĩa là tiền
+ công của người bán sức lao động rất khó phản ánh lượng giá trị đầy đủ như
+ ba yếu tố cấu thành như đã nêu.
+57

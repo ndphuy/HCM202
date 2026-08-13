@@ -1,0 +1,32 @@
+thời gian lao động thặng dư (t') và thời gian lao động tất yếu (t).
+$m^{prime}=frac{t^{prime}}{t}chi100%$
+Khối lượng giá trị thặng dư là lượng giá trị thặng dư bằng tiền mà
+nhà tư bản thu được. Công thức tính khối lượng giá trị thặng dư là:
+$M=m^{prime}$. V
+Trong đó, M là hối lượng giá trị thặng dư, V là tổng tư bản khả biến.
+Tỷ suất giá trị thặng dư phản ánh trình độ khai thác sức lao động làm
+ thuê;
+khối lượng giá trị thặng dư phản ánh quy mô giá trị thặng dư mà chủ
+ sở hữu tư liệu sản xuất thu được.
+3.1.3. Các phương pháp sản xuất giá trị thặng dư
+Để thu được nhiều giá trị thặng dư cần có phương pháp nhất định.
+C.Mác đã chỉ ra nhà tư bản sử dụng hai phương pháp sản xuất giá trị thặng
+ dư là sản xuất giá trị thặng dư tuyệt đối và sản xuất giá trị thặng dư tương
+ đối.
+- Sản xuất giá trị thặng dư tuyệt đối
+Giá trị thặng dư tuyệt đối là giả trị thặng dư thu được do kéo dài
+ ngày lao động vượt quả thời gian lao động tất yếu, trong khi năng suất lao
+ động, giá trị sức lao động và thời gian lao động tất yếu không thay đổi.
+Ví dụ: nếu ngày lao động là 8 giờ, thời gian lao động tất yếu là 4 giờ,
+ thời gian lao động thặng dư là 4 giờ, tỷ suất giá trị thặng dư là 100%.
+Giả định nhà tư bản kéo dài ngày lao động thêm 2 giờ nữa với mọi
+ điều kiện không đổi thì giá trị thặng dư tuyệt đối tăng từ 4 giờ lên 6 giờ và
+ tỷ suất giá trị thặng dư sẽ là:
+$m^{prime}=frac{6~glo}{4~gldot{o}}times100%=150%$
+Để có nhiều giá trị thặng dư, người mua hàng hóa sức lao động phải
+tìm mọi cách để kéo dài ngày lao động và tăng cường độ lao động.
+Tuy nhiên, ngày lao động chịu giới hạn về mặt sinh lý (công nhân
+ phải có thời gian ăn, ngủ, nghỉ ngơi, giải trí) nên không thể kéo dài bằng
+ ngày tự nhiên, còn cường độ lao động cũng không thể tăng vô hạn quá sức
+ chịu đựng của con người.
+64

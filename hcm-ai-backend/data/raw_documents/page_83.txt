@@ -1,0 +1,44 @@
+Thứ ba, sử dụng hiệu quả máy móc.
+C.Mác gọi việc này là chênh lệch giữa tư bản sử dụng và tư bản tiêu
+ dùng.
+Theo C.Mác, máy móc được sử dụng toàn bộ tính năng của nó, song
+ giá trị chỉ được tính dần vào giá trị sản phẩm qua khấu hao.
+Sau mỗi chu kỳ
+ như thế, máy móc vẫn hoạt động toàn bộ nhưng giá trị của bản thân nó đã
+ giảm dần do tính giá khấu hao để chuyển vào giá trị sản phẩm.
+Hệ quả là,
+ mặc dù giá trị đã bị khấu hao, song tính năng hay giá trị sử dụng thì vẫn
+ nguyên như cũ, như lực lượng phục vụ không công trong sản xuất.
+Sự phục
+ vụ không công ấy được lao động sống nắm lấy và làm cho chúng hoạt
+ động.
+Chúng được tích luỹ lại cùng với tăng quy mô tích luỹ tư bản.
+Đồng
+ thời, sự lớn lên không ngừng của quỹ khấu hao trong khi chưa cần thiết
+ phải đổi mới tư bản cố định cũng trở thành nguồn tài chính có thể sử dụng
+ cho mở rộng sản xuất.
+Thứ tư, đại lượng tư bản ứng trước.
+Nếu thị trường thuận lợi, hàng hóa luôn bán được, tư bản ứng trước
+càng lớn sẽ là tiền đề cho tăng quy mô tích luỹ.
+3.2.3. Một số hệ quả của tích luỹ tư bản
+Theo C.Mác, quá trình tích lũy trong nền kinh tế thị trường tư bản
+dẫn tới các hệ quả kinh tế mang tính quy luật như sau:
+Thứ nhất, tích lũy tư bản làm tăng cấu tạo hữu cơ tư bản.
+Cấu tạo hữu cơ của tư bản (ký hiệu c/v) là cấu tạo giá trị được quyết
+ định bởi cấu tạo kỹ thuật và phản ánh sự biến đổi của cấu tạo kỹ thuật của
+ tư bản.
+C.Mác cho rằng, nền sản xuất có thể được quan sát qua hình thái hiện
+ vật.
+Cũng có thể quan sát qua hình thái giá trị.
+Nếu quan sát qua hình thái hiện vật thì mối quan hệ tỷ lệ giữa số
+ lượng tư liệu sản xuất và số lượng sức lao động được coi là cấu tạo kỹ
+ thuật.
+Cấu tạo kỹ thuật này, nếu quan sát qua hình thái giá trị nó phản ánh ở
+ mối quan hệ tỷ lệ giữa tư bản bất biến với tư bản khả biến.
+Tỷ lệ giá trị này
+ được gọi là cấu tạo hữu cơ.
+Cấu tạo hữu cơ luôn có xu hướng tăng do cấu
+ tạo kỹ thuật cũng vận động theo xu hướng tăng lên về lượng.
+Vì vậy, quá trình tích lũy tư bản không ngừng làm tăng cấu tạo hữu
+cơ tư bản.
+68

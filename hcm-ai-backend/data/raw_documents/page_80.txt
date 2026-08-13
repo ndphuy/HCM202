@@ -1,0 +1,40 @@
+Hơn nữa, công nhân kiến quyết đấu tranh đòi rút ngắn ngày lao
+ động.
+Quyền lợi hai bên có mâu thuẫn, thông qua đấu tranh, tuỳ tương
+ quan lực lượng mà tại các dân tộc trong từng giai đoạn lịch sử cụ thể
+ có thể quy định độ dài nhất định của ngày lao động.
+Tuy vậy, ngày lao
+ động phải dài hơn thời gian lao động tất yếu và cũng không thể vượt giới
+ hạn thể chất và tinh thần của người lao động.
+- Sản xuất giá trị thặng dư tương đối
+Giá trị thặng dư tương đối là giá trị thặng dư thu được nhờ rút ngắn
+ thời gian lao động tất yếu;
+do đó kéo dài thời gian lao động thặng dư trong
+ khi độ dài ngày lao động không thay đổi hoặc thậm chí rút ngắn.
+Ví dụ: ngày lao động 8 giờ, với 4 giờ lao động tất yếu, 4 giờ lao động
+ thặng dư, tỷ suất giá trị thặng dư là 100%.
+Nếu giá trị sức lao động giảm
+ khiến thời gian lao động tất yếu rút xuống còn 2 giờ thì thời gian lao động
+ thặng dư sẽ là 6 giờ.
+Khi đó:
+$m^{prime}=frac{6~gi0}{2~gipartial}times100%=300%$
+Nếu ngày lao động giảm xuống còn 6 giờ nhưng giá trị sức lao động
+ giảm khiến thời gian lao động tất yếu rút xuống còn 1 giờ thì thời gian lao
+ động thặng dư sẽ là 5 giờ.
+Khi đó:
+$m^{prime}=frac{5~gihat{alpha}}{1~gihat{alpha}}times100%=500%$
+Để hạ thấp giá trị sức lao động thì phải giảm giá trị các tư liệu sinh
+ hoạt và dịch vụ cần thiết để tái sản xuất sức lao động, do đó phải tăng năng
+ suất lao động trong các ngành sản xuất ra tư liệu sinh hoạt và các ngành sản
+ xuất ra tư liệu sản xuất để chế tạo ra tư liệu sinh hoạt đó.
+Trong thực tế, việc cải tiến kỹ thuật, tăng năng suất lao động diễn ra
+ trước hết ở một hoặc vài xí nghiệp riêng biệt, làm cho hàng hoá do các xí
+ nghiệp ấy sản xuất ra có giá trị cá biệt thấp hơn giá trị xã hội, và do đó, sẽ
+ thu được một số giá trị thặng dư trội hơn so với các xí nghiệp khác.
+Phần
+ giá trị thặng dư trội hơn đó là giá trị thặng dư siêu ngạch.
+Xét từng trường hợp đơn vị sản xuất cá biệt, giá trị thặng dư siêu
+ ngạch là một hiện tượng tạm thời, xuất hiện rồi mất đi, nhưng xét toàn bộ
+ xã hội tư bản thì giá trị thặng dư siêu ngạch lại là hiện tượng tồn tại thường
+ xuyên.
+65

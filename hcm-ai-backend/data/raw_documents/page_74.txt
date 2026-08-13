@@ -1,0 +1,42 @@
+Trong ví dụ xét nêu trên này, đã giả định người mua sức lao động là
+ nhà tư bản với tư cách là chủ sở hữu thuần tuý để phân biệt với người lao
+ động làm thuê.
+Trong trường hợp việc quản lý doanh nghiệp cũng do người
+ lao động được thuê thì giá trị mới là thuần tuý do lao động làm thuê tạo ra.
+Còn trong trường hợp người mua hàng hóa sức lao động cũng phải
+ hao phí sức lao động dưới dạng quản lý thì giá trị mới đó cũng có sự đóng
+ góp một phần từ lao động quản lý với tư cách là lao động phức tạp.
+Trên
+ thực tế, đa số người mua sức lao động cũng phải tham gia quản lý và hao
+ phí sức lao động.
+Như vậy, đến đây có thể khái quát: tư bản là giá trị đem lại giá trị
+ thặng dư.
+Quá trình sản xuất giá trị thặng dư, xét từ phía nhà tư bản, là quá
+ trình ứng ra và sử dụng tư bản với tư cách là giá trị mang lại giá trị thặng
+ dư.
+Để tiến hành sản xuất, nhà tư bản phải ứng tư bản ra mua tư liệu sản
+ xuất và sức lao động.
+Để khẳng định rõ hơn nguồn gốc của giá trị thặng dư là do hao phí
+ sức lao động tạo ra, cần phân tích vai trò của tư liệu sản xuất trong mối
+ quan hệ với người lao động trong quá trình làm tăng giá trị.
+Việc phân
+ tích này được C.Mác nghiên cứu dưới nội hàm của hai thuật ngữ: Tư bản
+ bất biến và tư bản khả biến.
+3.1.1.4. Tư bản bất biến và tư bản khả biến
+Để tiến hành sản xuất, nhà tư bản cần mua tư liệu sản xuất và hàng
+ hóa sức lao động.
+Tư bản bất biến
+Bộ phận tư bản tồn tại dưới hình thái tư liệu sản xuất mà giá trị
+ được lao động cụ thể của công nhân làm thuê bảo tồn và chuyển nguyên
+ vẹn vào giá trị sản phẩm, tức là giá trị không biến đổi trong quá trình sản
+ xuất được C.Mác gọi là tư bản bất biến (ký hiệu là c).
+Tư bản bất biến không tạo ra giá trị thặng dư nhưng là điều kiện cần
+ thiết để cho quá trình tạo ra giá trị thặng dư được diễn ra.
+Máy móc dù hiện đại, dù được tự động hóa thì vai trò của nó, C.Mác
+ so sánh, giống như vai trò của chiếc bình thủy tinh trong thí nghiệm phản
+ ứng hóa học.
+Máy móc, nguyên nhiên vật liệu là điều kiện để cho quá trình
+ làm tăng giá trị được diễn ra.
+Không có máy móc, không có quá trình tổ
+ chức kinh doanh thì đương nhiên không có quá trình sản xuất giá trị thặng
+58
