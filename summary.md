@@ -1,4 +1,4 @@
-﻿# HCM202 AI Study Assistant - Project Summary
+# HCM202 AI Study Assistant - Project Summary
 
 ## Overview
 
@@ -78,8 +78,8 @@ Teacher images -> hcm-ai-backend/data/raw_documents/ -> auto-ingest on startup -
 
 ## Git
 
-Local: d:\Ky_8\HCM202 | master branch | 58 files initial commit
-Remote: new GitHub repo needed
+Local: d:\Ky_8\HCM202 | master branch
+Remote: https://github.com/ndphuy/HCM202.git
 
 ---
 
