@@ -1,0 +1,28 @@
+﻿# Python
+__pycache__/
+*.py[cod]
+*.pyo
+venv/
+.env
+*.egg-info/
+
+# Node
+node_modules/
+.next/
+.env.local
+.env*.local
+
+# Data
+hcm-ai-backend/data/chroma_db/
+hcm-ai-backend/data/parsed_text/
+hcm-ai-backend/data/raw_documents/
+
+# IDEs
+.vscode/
+.idea/
+*.suo
+*.user
+
+# OS
+.DS_Store
+Thumbs.db

@@ -1,0 +1,14 @@
+fastapi
+uvicorn[standard]
+pydantic-settings
+google-genai
+groq
+sentence-transformers
+chromadb
+pymupdf
+python-docx
+python-multipart
+pytesseract
+pillow
+pytest
+httpx
