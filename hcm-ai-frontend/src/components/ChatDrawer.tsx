@@ -58,7 +58,7 @@ export default function ChatDrawer({
             <Sparkles className="h-5 w-5 text-gold-bright animate-pulse" />
             <div>
               <h3 className="font-bold text-sm text-white">Trợ Lý AI Thuyết Trình</h3>
-              <p className="text-[10px] text-neutral-400">Hỏi đáp theo Giáo trình Kinh tế chính trị</p>
+              <p className="text-[10px] text-neutral-400">Hỏi đáp theo Giáo trình Tư tưởng Hồ Chí Minh (HCM202)</p>
             </div>
           </div>
           <button 
@@ -78,7 +78,7 @@ export default function ChatDrawer({
               </div>
               <h4 className="text-sm font-bold text-white">Bạn cần giải thích về nội dung nào?</h4>
               <p className="text-xs text-neutral-400 max-w-[280px]">
-                Hãy nhập câu hỏi bên dưới hoặc sử dụng các nút gợi ý hỏi nhanh trên tab Phân tích của Case Study Alpha Corp để bắt đầu hội thoại với AI.
+                Hãy nhập câu hỏi bên dưới hoặc chọn các nút gợi ý hỏi nhanh để bắt đầu hội thoại với AI.
               </p>
             </div>
           ) : (

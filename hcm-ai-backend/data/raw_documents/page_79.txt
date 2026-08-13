@@ -1,32 +1,21 @@
-thời gian lao động thặng dư (t') và thời gian lao động tất yếu (t).
-$m^{prime}=frac{t^{prime}}{t}chi100%$
-Khối lượng giá trị thặng dư là lượng giá trị thặng dư bằng tiền mà
-nhà tư bản thu được. Công thức tính khối lượng giá trị thặng dư là:
-$M=m^{prime}$. V
-Trong đó, M là hối lượng giá trị thặng dư, V là tổng tư bản khả biến.
-Tỷ suất giá trị thặng dư phản ánh trình độ khai thác sức lao động làm
- thuê;
-khối lượng giá trị thặng dư phản ánh quy mô giá trị thặng dư mà chủ
- sở hữu tư liệu sản xuất thu được.
-3.1.3. Các phương pháp sản xuất giá trị thặng dư
-Để thu được nhiều giá trị thặng dư cần có phương pháp nhất định.
-C.Mác đã chỉ ra nhà tư bản sử dụng hai phương pháp sản xuất giá trị thặng
- dư là sản xuất giá trị thặng dư tuyệt đối và sản xuất giá trị thặng dư tương
- đối.
-- Sản xuất giá trị thặng dư tuyệt đối
-Giá trị thặng dư tuyệt đối là giả trị thặng dư thu được do kéo dài
- ngày lao động vượt quả thời gian lao động tất yếu, trong khi năng suất lao
- động, giá trị sức lao động và thời gian lao động tất yếu không thay đổi.
-Ví dụ: nếu ngày lao động là 8 giờ, thời gian lao động tất yếu là 4 giờ,
- thời gian lao động thặng dư là 4 giờ, tỷ suất giá trị thặng dư là 100%.
-Giả định nhà tư bản kéo dài ngày lao động thêm 2 giờ nữa với mọi
- điều kiện không đổi thì giá trị thặng dư tuyệt đối tăng từ 4 giờ lên 6 giờ và
- tỷ suất giá trị thặng dư sẽ là:
-$m^{prime}=frac{6~glo}{4~gldot{o}}times100%=150%$
-Để có nhiều giá trị thặng dư, người mua hàng hóa sức lao động phải
-tìm mọi cách để kéo dài ngày lao động và tăng cường độ lao động.
-Tuy nhiên, ngày lao động chịu giới hạn về mặt sinh lý (công nhân
- phải có thời gian ăn, ngủ, nghỉ ngơi, giải trí) nên không thể kéo dài bằng
- ngày tự nhiên, còn cường độ lao động cũng không thể tăng vô hạn quá sức
- chịu đựng của con người.
-64
+phương”; phải chống bệnh địa phương cục bộ; phải kết hợp cán bộ trẻ với cán bộ cũ; phải phòng và chống các tiêu cực trong công tác cán bộ; phải thường xuyên kiểm tra, giúp đỡ cán bộ.
+
+II. TƯ TƯỞNG HỒ CHÍ MINH VỀ NHÀ NƯỚC CỦA NHÂN DÂN, DO NHÂN DÂN, VÌ NHÂN DÂN
+
+1. Nhà nước dân chủ
+
+a. Bản chất giai cấp của nhà nước
+
+Trong tư tưởng Hồ Chí Minh, Nhà nước Việt Nam là nhà nước dân chủ, nhưng tuyệt nhiên nó không phải là “Nhà nước toàn dân”, hiểu theo nghĩa là nhà nước phi giai cấp. Nhà nước ở đâu và bao giờ cũng mang bản chất của một giai cấp nhất định. Nhà nước Việt Nam mới – Nhà nước Việt Nam Dân chủ Cộng hòa, theo quan điểm của Hồ Chí Minh, là một nhà nước mang bản chất giai cấp công nhân. Bản chất giai cấp công nhân của Nhà nước Việt Nam thể hiện trên mấy phương diện:
+
+Một là, Đảng Cộng sản Việt Nam giữ vị trí và vai trò cầm quyền. Lời nói đầu của bản Hiến pháp năm 1959 khẳng định: “Nhà nước của ta là Nhà nước dân chủ nhân dân, dựa trên nền tảng liên minh công nông, do giai cấp công nhân lãnh đạo”. Ngay trong quan điểm về nhà nước dân chủ, nhà nước do nhân dân là người chủ nắm chính quyền, Hồ Chí Minh đã nhấn mạnh nòng cốt của nhân dân là liên minh công – nông trí, do giai cấp công nhân mà đội tiên phong của nó là Đảng Cộng sản Việt Nam lãnh đạo. Đảng cầm quyền bằng phương thức thích hợp sau đây: (1) Bằng đường lối, quan điểm, chủ trương để Nhà nước thể chế hóa thành pháp luật, chính sách, kế hoạch; (2) Bằng hoạt động của các tổ chức đảng và đảng viên của mình trong bộ máy, cơ quan nhà nước; (3) Bằng công tác kiểm tra.
+
+Hai là, bản chất giai cấp của Nhà nước Việt Nam thể hiện ở tính định hướng xã hội chủ nghĩa trong sự phát triển đất nước. Đưa đất nước đi lên chủ nghĩa xã hội và chủ nghĩa cộng sản là mục tiêu cách mạng nhất quán của Hồ Chí Minh. Việc giành lấy chính quyền, lập nên Nhà nước Việt Nam mới, chính là để giai cấp công nhân và nhân dân lao động có được một tổ chức mạnh mẽ nhằm thực hiện mục tiêu nói trên.
+
+Ba là, bản chất giai cấp công nhân của Nhà nước thể hiện ở nguyên tắc tổ chức và hoạt động của nó là nguyên tắc tập trung dân chủ. Hồ Chí Minh rất chú ý đến cả hai mặt dân chủ và tập trung trong tổ chức và hoạt động của tất cả bộ máy, cơ quan nhà nước. Người nhấn mạnh đến sự cần thiết phải phát huy cao độ dân chủ, đồng thời cũng nhấn mạnh phải phát huy cao độ tập trung, Nhà nước phải tập trung thống nhất quyền lực để tất cả mọi quyền lực thuộc về nhân dân.
+
+' Hồ Chí Minh: Toàn tập, Nxb Chính trị quốc gia, Hà Nội, 2011, 1.5, tr.276.
+
+2 Nay là Cộng hòa xã hội chủ nghĩa Việt Nam.
+
+79

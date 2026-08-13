@@ -1,75 +1,17 @@
-* Các nhân tố ảnh hưởng tới tỷ suất lợi nhuận
-Quan sát từ công thức tính tỷ suất lợi nhuận có thể thấy, những nhân
- tố nào ảnh hưởng tới giá trị của tử số hoặc mẫu số, hoặc cả tử số cả mẫu số
- của phân thức cũng sẽ ảnh hưởng tới tỷ suất lợi nhuận.
-C.Mác nêu ra các
- nhân tố sau:
-Thứ nhất, tỷ suất giá trị thặng dư. Sự gia tăng của tỷ suất giá trị thặng
- dư sẽ có tác động trực tiếp làm tăng tỷ suất lợi nhuận.
-Thứ hai, cấu tạo hữu cơ tư bản. Cấu tạo hữu cơ c/v tác động tới chi
- phí sản xuất, do đó tác động tới lợi nhuận và tỷ suất lợi nhuận.
-Thứ ba, tốc độ chu chuyển của tư bản. Nếu tốc độ chu chuyển của tư
- bản càng lớn thì tỷ lệ giá trị thặng dư hàng năm tăng lên, do đó, tỷ suất lợi
- nhuận tăng.
-Thứ tư, tiết kiệm tư bản bất biến. Trong điều kiện tư bản khả biến
- không đổi, nếu giá trị thặng dư giữ nguyên, tiết kiệm tư bản bất biến làm
- tăng tỷ suất lợi nhuận.
-3.3.1.4. Lợi nhuận bình quân
-Cạnh tranh giữa các ngành là cơ chế cho sự hình thành lợi nhuận
- bình quân.
-Ở các ngành sản xuất kinh doanh khác nhau, do có những điều kiện
- tự nhiên, kinh tế, kỹ thuật và tổ chức quản lý khác nhau, nên tỷ suất lợi
- nhuận giữa các ngành cũng khác nhau.
-Giả sử có ba ngành sản xuất (cơ khí, dệt và da), vốn của các ngành
- đều bằng nhau (bằng 100 đơn vị tiền tệ), tỷ suất giá trị thặng dư đều bằng
- nhau (bằng 100%), tốc độ chu chuyển của vốn ở các ngành đều bằng nhau.
-Do đặc điểm của mỗi ngành sản xuất khác nhau, nên cấu tạo hữu cơ
- của vốn (tư bản) ở từng ngành khác nhau, tỷ suất lợi nhuận ở các ngành
-khác nhau (xem bảng).
+Trong quá trình lãnh đạo xây dựng Nhà nước Việt Nam, Hồ Chí Minh thường nói đến những tiêu cực sau đây và nhắc nhở mọi người đề phòng và khắc phục.
 
-The following table:
-"Ngành
- sản xuất
-","Chi phí
- sản xuất
-","m' (%)
-","m
-","P' (%)
-","$(overline{P}^{bullet})$
-","PGCSX
-"
-"Cơ khí
-","$80~c+20~v$
-","100
-","20
-","20
-","30%
-","30
+Đặc quyền, đặc lợi. Xây dựng Nhà nước trong sạch, vững mạnh đòi hỏi phải tẩy trừ những thói cậy mình là người trong cơ quan chính quyền để cửa quyền, hạch dịch với dân, lạm quyền, đồng thời để vơ vét tiền của, lợi dụng chức quyền để làm lợi cho cá nhân mình, làm như thế tức là sa vào chủ nghĩa cá nhân.
 
+Tham ô, lãng phí, quan liêu. Hồ Chí Minh coi tham ô, lãng phí, quan liêu là “giặc nội xâm”, “giặc ở trong lòng”, thứ giặc nguy hiểm hơn giặc ngoại xâm. Người thường phê bình những người “lấy của công dùng vào việc tư, quên cả thanh liêm, đạo đức”. Quan điểm của Hồ Chí Minh là: “Tham ô, lãng phí và bệnh quan liêu, dù cố ý hay không, cũng là bạn đồng minh của thực dân và phong kiến... Tỗi lỗi ấy cũng nặng như tội lỗi Việt gian, mật thám”². Ngày 27-11-1946, Hồ Chí Minh đã ký Sắc lệnh ấn định hình phạt tội đưa và nhân hối lộ với mức từ 5 năm đến 20 năm tù khổ sai và phải nộp phạt gấp đôi số tiền nhận hối lộ. Ngày 26-1-1946, Hồ Chí Minh ký lệnh nói rõ tội tham ô, trộm cắp đến mức cao nhất là tử hình.
 
-130
-"
-"Dệt
-","$70~c+30~v$
-","100
-","30
-","30
-","30%
-","30
+Lãng phí là một căn bệnh mà Hồ Chí Minh lên án gay gắt. Chính bản thân Người luôn làm gương, tích cực thực hành chống lãng phí trong cuộc sống và công việc hằng ngày. Người quý trọng từng đồng xu, bát gạo do dân đóng góp cho hoạt động của bộ máy nhà nước. Lãng phí ở đây được Hồ Chí Minh xác định là lãng phí sức lao động, lãng phí thời giờ, lãng phí tiền của. Chống lãng phí là biện pháp để tiết kiệm, là quốc sách của mọi quốc gia.
 
+Bệnh quan liêu không những có ở cấp trung ương, ở cấp tỉnh, ở cấp huyện mà còn có ngay ở cả cấp cơ sở. Hồ Chí Minh phê bình những người và các cơ quan lãnh đạo từ cấp trên đến cấp dưới không sát công việc thực tế, không theo dõi và giáo dục cán bộ, không gần gũi quần chúng. Đối với công việc thì trọng hình thức mà không xem xét khắp mọi mặt, không đi sâu từng vấn đề. Bệnh quan liêu làm cho chúng ta chỉ biết khai hội, viết chỉ thị, xem báo cáo trên giấy, chứ không kiểm tra đến nơi đến chốn... thành thử có mắt mà không thấy suốt, có tai mà không nghe thấu, có chế độ mà không giữ đúng, có kỷ luật mà không nắm vững... Thế là bệnh quan liêu đã ấp dủ, dung túng, che chở cho nạn tham ô, lãng phí. Vì vậy, đây là bệnh gốc sinh ra các bệnh tham ô, lãng phí; muốn trừ sạch bệnh tham ô, lãng phí thì trước hết phải tẩy sạch bệnh quan liêu.
 
-130
-"
-"Da
-","$60~c+40~v$
-","100
-","40
-","40
-","30%
-","30
+“Tư túng”, “chia rẽ”, “kiêu ngạo”. Những căn bệnh trên gây mất đoàn kết, gây rối cho công tác. Hồ Chí Minh kịch liệt lên án tệ kéo bè, béo cánh, tệ nạn bà con bạn hữu mình không tài năng gì cũng kéo vào chức này chức nọ. Người có tài có đức,
 
+' Hồ Chí Minh: Toàn tập, Nxb Chính trị quốc gia, Hà Nội, 2011, t.4, tr.65.
 
-130
-"
+2 Hồ Chí Minh: Toàn tập, Nxb Chính trị quốc gia, Hà Nội, 2011, t.7, tr.357-358.
 
-73
+88

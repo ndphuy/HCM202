@@ -1,36 +1,15 @@
-Ở đây, tỷ suất lợi nhuận ở ngành da là cao nhất, nên các doanh
- nghiệp ở ngành cơ khí (thậm trí cả ở ngành dệt) sẽ di chuyển vốn của mình
- sang đầu tư vào ngành da.
-Đến một thời điểm nhất định, sản phẩm của ngành da sẽ tăng lên
- (cung lớn hơn cầu), làm cho giá cả hàng hoá ở ngành da sẽ hạ xuống thấp
- hơn giá trị của nó và tỷ suất lợi nhuận ở ngành này giảm xuống.
-Ngược lại, sản phẩm của ngành cơ khí sẽ giảm đi (cung nhỏ hơn
- cầu), nên giá cả sẽ cao hơn giá trị và do đó tỷ suất lợi nhuận ở ngành cơ khí
- sẽ tăng lên.
-Nếu tỷ suất lợi nhuận ở ngành cơ khí cao hơn ngành da thì các doanh
- nghiệp lại chuyển vốn đầu tư vào ngành cơ khí.
-Đây gọi là hiện tượng tự do
- di chuyển vốn sản xuất kinh doanh.
-Sự tự do di chuyển vốn vào các ngành
- chỉ tạm dừng lại khi tỷ suất lợi nhuận ở tất cả các ngành đều xấp xỉ bằng
- nhau, tức là hình thành tỷ suất lợi nhuận bình quân $(overline{P}^{prime})$.
-Về cách tính, lợi nhuận bình quân (ký hiệu là P ) được tính theo tỷ
- suất lợi nhuận bình quân (là con số trung bình của các tỷ suất lợi nhuận, ký
- hiệu là P').
-Tỷ suất lợi nhuận bình quân được tính bằng số bình quân gia quyền
- của các tỷ suất lợi nhuận như sau:
-$overline{p^{prime}}=frac{Sigma p}{Sigma(c+v)}times100%$
-Trong nền kinh tế thị trường cạnh tranh giữa các ngành tất yếu dẫn
-tới hình thành lợi nhuận bình quân.
-Lợi nhuận bình quân là số lợi nhuận bằng nhau của như tư bản như
- nhau đầu tư vào các ngành khác nhau (ký hiệu là P ).
-Nếu ký hiệu giá trị tư bản ứng trước là K thì lợi nhuận bình quân
- được tính như sau:
-$overline{P}=overline{P}^{prime}_{x}K$
-Khi lợi nhuận chuyển hóa thành lợi nhuận bình quân thì giá trị của
- hàng hóa chuyển hóa thành giá cả sản xuất.
-Giá cả sản xuất được tính như
- sau: $GCSX=k+overline{P}$
-Những điều kiện hình thành tỷ suất lợi nhuận bình quân, lợi nhuận
- bình quân, giá cả sản xuất bao gồm: tư bản tự do di chuyển và sức lao động
-74
+nhưng không vừa lòng mình thì đẩy ra ngoài. Trong chính quyền, còn hiện tượng gây mất đoàn kết, không biết cách làm cho mọi người hoà thuận với nhau, còn có người “bệnh vực lớp này, chống lại lớp khác”. Ngoài bệnh cậy thế, có người còn kiêu ngạo, “tưởng mình ở trong cơ quan Chính phủ là thần thánh rồi... cử chỉ lúc nào cũng vác mặt “quan cách mạng”””¹, làm mất uy tín của Chính phủ.
+
+Để tìm ra biện pháp phòng, chống tiêu cực trong bộ máy nhà nước, Hồ Chí Minh đã dày công luận giải nguyên nhân nảy sinh tiêu cực. Những nguyên nhân này được Hồ Chí Minh tiếp cận rất toàn diện. Trước hết là nguyên nhân chủ quan, bắt nguồn từ căn “bệnh mẹ” là chủ nghĩa cá nhân, tự sự thiếu tu dưỡng, rèn luyện của bản thân cán bộ. Bên cạnh đó còn có những nguyên nhân khách quan, từ gần đến xa, là do công tác cán bộ của Đảng và Nhà nước chưa tốt; do cách tổ chức, vận hành trong Đảng, trong Nhà nước, sự phối hợp giữa Đảng với Nhà nước chưa thật sự khoa học, hiệu quả; do trình độ phát triển còn thấp của đời sống xã hội; do tàn dư của những chính sách phản động của chế độ thực dân, phong kiến; do âm mưu chống phá của các lực lượng thù địch, v.v.. Các nguyên nhân này không tồn tại biệt lập với nhau, mà có sự kết hợp với nhau, tiến công vào đội ngũ cán bộ. Nếu Đảng và Nhà nước không có biện pháp phòng, chống tốt, không có chính sách bảo vệ cán bộ một cách có hiệu quả, thì nguy cơ mất cán bộ là rất lớn.
+
+Phòng, chống tiêu cực trong Nhà nước là nhiệm vụ hết sức khó khăn. Trong nhiều tác phẩm khác nhau, ở nhiều thời điểm khác nhau, Hồ Chí Minh đã nêu lên nhiều biện pháp khác nhau. Khái quát lại, có thể thấy nổi bật một hệ thống biện pháp cơ bản như sau:
+
+Một là, nâng cao trình độ dân chủ trong xã hội, thực hành dân chủ rộng rãi, phát huy quyền làm chủ của nhân dân đó là giải pháp căn bản và có ý nghĩa lâu dài.
+
+Hai là, pháp luật của Nhà nước, kỷ luật của Đảng phải nghiêm minh. Công tác kiểm tra phải thường xuyên. Cán bộ, đảng viên phải nghiêm túc và tự giác tuân thủ pháp luật, kỷ luật. Đối với những kẻ thoái hóa, biến chất, pháp luật phải “thẳng tay trừng trị”, bất kỳ kẻ ấy ở địa vị nào, làm nghề nghiệp gì. Trong Nhà nước “trăm đều phải có thần linh pháp quyền” thì tuyệt nhiên không có bất cứ vùng cấm nào.
+
+Ba là, phạt nghiêm minh, nghiêm khắc, đúng người đúng tội là cần thiết, song việc gì cũng xử phạt thì lại không đúng. Cần coi trọng giáo dục, lấy giáo dục, cảm hóa làm chủ yếu. Chỉ có như vậy mới làm cho cái tốt trong mỗi người nảy nở như hoa mùa Xuân và cái xấu mất dần đi. Trong giáo dục cán bộ, phải coi trọng giáo dục đạo đức, xây dựng hệ chuẩn mực đạo đức của người cầm quyền, khơi dậy lương tâm trong mỗi con người. Hồ Chí Minh đã chỉ rõ: “cán bộ các cơ quan, các đoàn thể, cấp cao thì quyền to, cấp thấp thì quyền nhỏ. Dù to hay nhỏ, có quyền mà thiếu lương tâm là có
+
+' Hồ Chí Minh: Toàn tập, Nxb Chính trị quốc gia, Hà Nội, 2011, t.4, tr. 66.
+
+89

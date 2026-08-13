@@ -1,42 +1,19 @@
-Trong ví dụ xét nêu trên này, đã giả định người mua sức lao động là
- nhà tư bản với tư cách là chủ sở hữu thuần tuý để phân biệt với người lao
- động làm thuê.
-Trong trường hợp việc quản lý doanh nghiệp cũng do người
- lao động được thuê thì giá trị mới là thuần tuý do lao động làm thuê tạo ra.
-Còn trong trường hợp người mua hàng hóa sức lao động cũng phải
- hao phí sức lao động dưới dạng quản lý thì giá trị mới đó cũng có sự đóng
- góp một phần từ lao động quản lý với tư cách là lao động phức tạp.
-Trên
- thực tế, đa số người mua sức lao động cũng phải tham gia quản lý và hao
- phí sức lao động.
-Như vậy, đến đây có thể khái quát: tư bản là giá trị đem lại giá trị
- thặng dư.
-Quá trình sản xuất giá trị thặng dư, xét từ phía nhà tư bản, là quá
- trình ứng ra và sử dụng tư bản với tư cách là giá trị mang lại giá trị thặng
- dư.
-Để tiến hành sản xuất, nhà tư bản phải ứng tư bản ra mua tư liệu sản
- xuất và sức lao động.
-Để khẳng định rõ hơn nguồn gốc của giá trị thặng dư là do hao phí
- sức lao động tạo ra, cần phân tích vai trò của tư liệu sản xuất trong mối
- quan hệ với người lao động trong quá trình làm tăng giá trị.
-Việc phân
- tích này được C.Mác nghiên cứu dưới nội hàm của hai thuật ngữ: Tư bản
- bất biến và tư bản khả biến.
-3.1.1.4. Tư bản bất biến và tư bản khả biến
-Để tiến hành sản xuất, nhà tư bản cần mua tư liệu sản xuất và hàng
- hóa sức lao động.
-Tư bản bất biến
-Bộ phận tư bản tồn tại dưới hình thái tư liệu sản xuất mà giá trị
- được lao động cụ thể của công nhân làm thuê bảo tồn và chuyển nguyên
- vẹn vào giá trị sản phẩm, tức là giá trị không biến đổi trong quá trình sản
- xuất được C.Mác gọi là tư bản bất biến (ký hiệu là c).
-Tư bản bất biến không tạo ra giá trị thặng dư nhưng là điều kiện cần
- thiết để cho quá trình tạo ra giá trị thặng dư được diễn ra.
-Máy móc dù hiện đại, dù được tự động hóa thì vai trò của nó, C.Mác
- so sánh, giống như vai trò của chiếc bình thủy tinh trong thí nghiệm phản
- ứng hóa học.
-Máy móc, nguyên nhiên vật liệu là điều kiện để cho quá trình
- làm tăng giá trị được diễn ra.
-Không có máy móc, không có quá trình tổ
- chức kinh doanh thì đương nhiên không có quá trình sản xuất giá trị thặng
-58
+phải theo tư tưởng của Đảng. Đảng đã chỉ thị nghị quyết là phải làm. Không làm thì đuổi ra khỏi Đảng»¹. Sức mạnh của một đảng cộng sản bắt nguồn từ kỷ luật, muôn người như một, cùng một ý chí và hành động. Hồ Chí Minh cho rằng, Đảng ta tuy đông người, nhưng khi tiến đánh chỉ như một người. Điều đó là nhờ trong Đảng có kỷ luật. Hồ Chí Minh nhấn mạnh rằng, “Đảng phải giữ kỷ luật rất nghiêm từ trên xuống dưới. Kỷ luật này là tư tưởng phải nhất trí, hành động phải nhất trí”. Kỷ luật của Đảng là kỷ luật tự giác, “do lòng tự giác của đảng viên về nhiệm vụ của họ đối với Đảng”; khi đã tự giác thì kỷ luật của Đảng mới nghiêm và mới bền lâu, thực sự tạo sức mạnh cho Đảng.
+
+- Đảng phải thường xuyên tự chỉnh đốn. Quyền lực của Đảng là do giai cấp công nhân, nhân dân lao động và toàn dân tộc giao phó. Đảng phải không ngừng tự chỉnh đốn bản thân mình. Hồ Chí Minh cho rằng, Đảng không có mục đích tự thân, Đảng không phải là tổ chức để làm quan phát tài mà Đảng từ trong xã hội mà ra, hoạt động vì Tổ quốc giàu mạnh, đồng bào sung sướng. Thường xuyên tự chỉnh đốn, do đó, trở thành một nhiệm vụ cực kỳ quan trọng trong xây dựng Đảng. Điều này càng đặc biệt quan trọng hơn khi Đảng đứng trước những thử thách lớn trong quá trình hoạt động, chẳng hạn, Hồ Chí Minh nêu ý kiến rằng, ngay sau khi cuộc chống Mỹ, cứu nước của nhân dân Việt Nam hoàn toàn thắng lợi, “việc cần phải làm trước tiên là chỉnh đốn lại Đảng, làm cho mỗi đảng viên, mỗi đoàn viên, mỗi chi bộ đều ra sức làm tròn nhiệm vụ đảng giao phó cho mình, toàn tâm toàn ý phục vụ nhân dân. Làm được như vậy, thì dù công việc to lớn mấy, khó khăn mấy chúng ta cũng nhất định thắng lợi”. Khi viết về tư cách của đảng chân chính cách mạng trong tác phẩm Sửa đổi lối làm việc, Hồ ChíMinh nêu lên 12 điều, trong đó có Điều 9: “Đảng phải chọn lựa những người rất trung thành và rất hăng hái” và Điều số 10: “Đảng phải luôn luôn tẩy bỏ những phần tử hủ hóa ra ngoài”. Nếu thực hiện được như thế, Đảng sẽ luôn luôn lớn mạnh cả về số lượng và chất lượng.
+
+Đoàn kết, thống nhất trong Đảng. Đoàn kết trong Đảng là điều kiện để xây dựng khối đại đoàn kết toàn dân tộc; đoàn kết, thống nhất trong Đảng trước hết là trong cấp uỷ, trong những cán bộ lãnh đạo chủ chốt; đoàn kết trên cơ sở chủ nghĩa Mác - Lênin, trên cơ sở cương lĩnh, đường lối, quan điểm, nghị quyết của Đảng. Trong Di chúc, Hồ Chí Minh nhấn mạnh: “Nhờ đoàn kết chặt chẽ, một lòng một dạ phục vụ giai cấp, phục vụ nhân dân, phục vụ Tổ quốc, cho nên từ ngày thành lập đến nay, Đảng
+
+1 Hồ Chí Minh: Toàn tập, Nxb Chính trị quốc gia, Hà Nội, 2011, t. 16, tr.367.
+
+2 Hồ Chí Minh: Toàn tập, Nxb Chính trị quốc gia, Hà Nội, 2011, t.5, tr.290.
+
+3 Hồ Chí Minh: Toàn tập, Nxb Chính trị quốc gia, Hà Nội, 2011, 1.5, tr.290.
+
+* Hồ Chí Minh: Toàn tập, Nxb Chính trị quốc gia, Hà Nội, 2011, t.15, tr.616.
+
+5 Hồ Chí Minh: Toàn tập, Nxb Chính trị quốc gia, Hà Nội, 2011, t.15, tr.290.
+
+* Hồ Chí Minh: Toàn tập, Nxb Chính trị quốc gia, Hà Nội, 2011, t.5, tr.290.
+
+74

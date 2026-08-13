@@ -1,44 +1,21 @@
-Thứ ba, sử dụng hiệu quả máy móc.
-C.Mác gọi việc này là chênh lệch giữa tư bản sử dụng và tư bản tiêu
- dùng.
-Theo C.Mác, máy móc được sử dụng toàn bộ tính năng của nó, song
- giá trị chỉ được tính dần vào giá trị sản phẩm qua khấu hao.
-Sau mỗi chu kỳ
- như thế, máy móc vẫn hoạt động toàn bộ nhưng giá trị của bản thân nó đã
- giảm dần do tính giá khấu hao để chuyển vào giá trị sản phẩm.
-Hệ quả là,
- mặc dù giá trị đã bị khấu hao, song tính năng hay giá trị sử dụng thì vẫn
- nguyên như cũ, như lực lượng phục vụ không công trong sản xuất.
-Sự phục
- vụ không công ấy được lao động sống nắm lấy và làm cho chúng hoạt
- động.
-Chúng được tích luỹ lại cùng với tăng quy mô tích luỹ tư bản.
-Đồng
- thời, sự lớn lên không ngừng của quỹ khấu hao trong khi chưa cần thiết
- phải đổi mới tư bản cố định cũng trở thành nguồn tài chính có thể sử dụng
- cho mở rộng sản xuất.
-Thứ tư, đại lượng tư bản ứng trước.
-Nếu thị trường thuận lợi, hàng hóa luôn bán được, tư bản ứng trước
-càng lớn sẽ là tiền đề cho tăng quy mô tích luỹ.
-3.2.3. Một số hệ quả của tích luỹ tư bản
-Theo C.Mác, quá trình tích lũy trong nền kinh tế thị trường tư bản
-dẫn tới các hệ quả kinh tế mang tính quy luật như sau:
-Thứ nhất, tích lũy tư bản làm tăng cấu tạo hữu cơ tư bản.
-Cấu tạo hữu cơ của tư bản (ký hiệu c/v) là cấu tạo giá trị được quyết
- định bởi cấu tạo kỹ thuật và phản ánh sự biến đổi của cấu tạo kỹ thuật của
- tư bản.
-C.Mác cho rằng, nền sản xuất có thể được quan sát qua hình thái hiện
- vật.
-Cũng có thể quan sát qua hình thái giá trị.
-Nếu quan sát qua hình thái hiện vật thì mối quan hệ tỷ lệ giữa số
- lượng tư liệu sản xuất và số lượng sức lao động được coi là cấu tạo kỹ
- thuật.
-Cấu tạo kỹ thuật này, nếu quan sát qua hình thái giá trị nó phản ánh ở
- mối quan hệ tỷ lệ giữa tư bản bất biến với tư bản khả biến.
-Tỷ lệ giá trị này
- được gọi là cấu tạo hữu cơ.
-Cấu tạo hữu cơ luôn có xu hướng tăng do cấu
- tạo kỹ thuật cũng vận động theo xu hướng tăng lên về lượng.
-Vì vậy, quá trình tích lũy tư bản không ngừng làm tăng cấu tạo hữu
-cơ tư bản.
-68
+d. Nhà nước vì nhân dân
+
+Nhà nước vì dân là nhà nước phục vụ lợi ích và nguyện vọng của nhân dân, không có đặc quyền đặc lợi, thực sự trong sạch, cần kiệm liêm chính. Hồ Chí Minh là một vị Chủ tịch vì dân và Người yêu cầu các cơ quan nhà nước, các cán bộ nhà nước đều phải vì nhân dân phục vụ. Người nói: "Các công việc của Chính phủ làm phải nhằm vào một mục đích duy nhất là mưu tự do hạnh phúc cho mọi người. Cho nên Chính phủ nhân dân bao giờ cũng phải đặt quyền lợi dân lên trên hết thảy. Việc gì có lợi cho dân thì làm. Việc gì có hại cho dân thì phải tránh”. Theo Hồ Chí Minh, thước đo một Nhà nước vì dân là phải được lòng dân. Hồ Chí Minh đặt vấn đề với cán bộ Nhà nước phải “làm sao cho được lòng dân, dân tin, dân mến, dân yêu”, đồng thời chỉ rõ: “muốn được dân yêu, muốn được lòng dân, trước hết phải yêu dân, phải đặt quyền lợi của dân trên hết thảy, phải có một tinh thần chí công vô tư”. Trong Nhà nước vì dân, cán bộ vừa là đày tớ, nhưng đồng thời phải vừa là người lãnh đạo nhân dân. Hai đòi hỏi này tưởng chừng như mâu thuẫn, nhưng đó là những phẩm chất cần có ở người cán bộ nhà nước vì dân. Là đày tới thì phải trung thành, tận tuỵ, cần kiệm liêm chính, chí công vô tư, lo trước thiên hạ, vui sau thiên hạ. Là người lãnh đạo thì phải có trí tuệ hơn người, minh mẫn, sáng suốt, nhìn xa trông rộng, gần gũi nhân dân, trọng dụng hiền tài. Như vậy, để làm người thay mặt nhân dân phải gồm đủ cả đức và tài, phải vừa hiền lại vừa minh. Phải như thế thì mới có thể “chẳng những làm những việc trực tiếp có lợi cho dân, mà cũng có khi làm những việc mới xem qua như là hại đến dân”, nhưng thực chất là vì lợi ích toàn cục, vì lợi ích lâu dài của nhân dân.
+
+2. Nhà nước pháp quyền
+
+a. Nhà nước hợp hiến, hợp pháp
+
+Hồ Chí Minh luôn chú trọng vấn đề xây dựng nền tảng pháp lý cho Nhà nước Việt Nam mới. Người đã sớm thấy rõ tầm quan trọng của Hiến pháp và pháp luật trong đời sống chính trị - xã hội. Điều này thể hiện trong bản Yêu sách của nhân dân An Nam của nhóm những người Việt Nam yêu nước tại Pháp do Người thay mặt nhóm gửi đến Hội nghị Vécxây (Pháp) năm 1919. Bản Yêu sách đó nêu ra yêu cầu “cải cách nền pháp lý ở Đông Dương bằng cách làm cho người bản xứ cũng được quyền hưởng những bảo đảm về mặt pháp luật như người Âu châu; xoá bỏ hoàn toàn các toà án đặc biệt dùng làm công cụ để khủng bố và áp bức bộ phận trung thực nhất trong nhân dân An Nam”; “Thay thế chế độ ra các sắc lệnh bằng chế độ ra các đạo luật”.
+
+Sau này, khi trở thành người đứng đầu Nhà nước Việt Nam mới, Hồ Chí Minh
+
+1 Hồ Chí Minh: Toàn tập, Nxb Chính trị quốc gia, Hà Nội, 2011, t.4, tr.21.
+
+2 Hồ Chí Minh: Toàn tập, Nxb Chính trị quốc gia, Hà Nội, 2011, t.4, tr.52.
+
+3 Hồ Chí Minh: Toàn tập, Nxb Chính trị quốc gia, Hà Nội, 2011, t.5, tr.285.
+
+* Hồ Chí Minh: Toàn tập, Nxb Chính trị quốc gia, Hà Nội, 2011, t.1, tr.441.
+
+83

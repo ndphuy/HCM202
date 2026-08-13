@@ -1,40 +1,15 @@
-Chi phí sản xuất tư bản chủ nghĩa là phần giá trị của hàng hóa, bù
- lại giá cả của những tư liệu sản xuất đã tiêu dùng và giá cả của sức lao
- động đã được sử dụng để sản xuất ra hàng hóa ấy.
-Đó là chi phí mà nhà tư bản đã bỏ ra để sản xuất ra hàng hóa.
-Chi phí sản xuất được ký hiệu là k.
-Về mặt lượng, $k=c+v$
-Khi xuất hiện phạm trù chí phí sản xuất thì giá trị hàng hóa $G=c+$
- (v+m) sẽ biểu hiện thành: $G=k+m$
-Chi phí sản xuất có vai trò quan trọng: bù đắp tư bản về giá trị và
- hiện vật, đảm bảo điều kiện cho tái sản xuất trong kinh tế thị trường;
-tạo cơ
- sở cho cạnh tranh, là căn cứ quan trọng cho cạnh tranh về giá cả bán hàng
- giữa các nhà tư bản.
-3.3.1.2. Bản chất lợi nhuận
-Trong thực tế sản xuất kinh doanh, giữa giá trị hàng hóa và chi phí
- sản xuất có một khoảng chênh lệch.
-Cho nên sau khi bán hàng hóa (bán
- ngang giá), nhà tư bản không những bù đắp đủ số chi phí đã ứng ra mà còn
- thu được số chênh lệch bằng giá trị thặng dư.
-Số chênh lệch này C.Mác gọi
- là lợi nhuận.
-Ký hiệu lơi nhuận là p.
-Khi đó giá trị hàng hóa được viết là: $G=k+p$
-Từ đó $p=G-k$
-Từ cách tính toán trên thực tế như vậy, người ta chỉ quan tâm tới
- khoản chênh lệch giữa giá trị hàng hóa bán được với chi phí phải bỏ ra mà
- không quan tâm đến nguồn gốc sâu xa của khoản chênh lệch đó chính là
- giá trị thặng dư chuyển hóa thành.
-Thậm chí, với nhà tư bản, lợi nhuận còn
- được quan niệm là do tư bản ứng trước sinh ra.
-C.Mác khái quát: giá trị thặng dư, được quan niệm là con đẻ của toàn
- bộ tư bản ứng trước, mang hình thái chuyển hóa là lợi nhuận.
-Điều đó có nghĩa, lợi nhuận chẳng qua chỉ là hình thái biểu hiện của
- giá trị thặng dư trên bề mặt nền kinh tế thị trường.
-Nhà tư bản cá biệt chỉ cần bán hàng hóa với giá cả cao hơn chi phí
- sản xuất là đã có lợi nhuận.
-Trong trường hợp bán đúng bằng chi phí sản
- xuất là không có lợi nhuận.
-Bán hàng hóa thấp hơn giá trị và cao hơn chi
-71
+dụng sáng tạo các lý thuyết hiện đại về quyền con người, Hồ Chí Minh tiếp cận quyền con người một cách toàn diện. Người đề cập đến các quyền tự nhiên của con người, trong đó quyền cao nhất là quyền sống; đồng thời cũng đề cập đến cả các quyền chính trị - dân sự, quyền kinh tế, văn hóa, xã hội của con người. Người chú trọng quyền của công dân nói chung, đồng thời cũng chú trọng đến quyền của những nhóm người cụ thể như phụ nữ, trẻ em, người dân tộc thiểu số, v.v.. Sự nghiệp cách mạng chân chính cần đấu tranh cho quyền con người, vì thế, mục tiêu giải phóng con người, làm cho mọi người có được cuộc sống hạnh phúc, tự do xứng với phẩm giá con người, được hưởng dụng các quyền con người một cách đầy đủ nhất đã hòa quyện một cách hữu cơ và trở thành mục tiêu cao nhất của sự nghiệp cách mạng của dân tộc Việt Nam. Nhà nước Việt Nam ngay từ khi ra đời và luôn nhất quán quan điểm kiên quyết đấu tranh cho quyền con người. Hiến pháp của đất nước đã ghi nhận một cách toàn diện quyền con người ở Việt Nam. Đó là nền tảng pháp lý để bảo vệ và thực thi các quyền con người đó một cách triệt để.
+
+Trong pháp quyền nhân nghĩa, pháp luật có tính nhân văn, khuyến thiện. Cho nên, ngay khi thành lập, Chính phủ lâm thời nước Việt Nam Dân chủ Cộng hòa đã lập tức tuyên bố xoá bỏ mọi luật pháp hà khắc của chính quyền thực dân phản động. Tính nhân văn của hệ thống luật pháp thể hiện ở việc ghi nhận đầy đủ và bảo vệ quyền con người; ở tính nghiêm minh nhưng khách quan và công bằng, tuyệt đối chống đối xửvới con người một cách dã man. Ngay cả đối với những kẻ phản bội Tổ quốc, Hồ ChíMinh tuyên bố rõ: “Chính phủ Việt Nam sẽ tha thứ hay trừng trị họ theo luật pháp tuỳ theo thái độ của họ hiện nay và về sau. Nhưng sẽ không có ai bị tàn sát”. Đặc biệt, hệ thống luật pháp đó có tính khuyến thiện, bảo vệ cái đúng, cái tốt, lấy mục đích giáo dục, cảm hóa, thức tỉnh con người làm căn bản. Với Hồ Chí Minh, việc xây dựng và thi hành pháp luật phải dựa trên nền tảng đạo đức của xã hội và các giá trị đạo đức thấm sâu vào trong mọi quy định của pháp luật. Nói cách khác, pháp luật trong Nhà nước pháp quyền nhân nghĩa phải là pháp luật vì con người.
+
+3. Nhà nước trong sạch, vững mạnh
+
+a. Kiểm soát quyền lực nhà nước
+
+Để giữ vững bản chất của Nhà nước, bảo đảm cho Nhà nước hoạt động có hiệu quả, phòng chống thoái hóa, biến chất trong đội ngũ cán bộ Nhà nước, Hồ Chí Minh rất chú trọng vấn đề kiểm soát quyền lực nhà nước.
+
+Theo quan điểm của Hồ Chí Minh, kiểm soát quyền lực nhà nước là tất yếu. Các cơ quan nhà nước, cán bộ nhà nước, dù ít hay nhiều đều nắm giữ quyền lực trong tay. Quyền lực này là do nhân dân ủy thác cho. Nhưng một khi đã nắm giữ quyền lực, cơ quan nhà nước hay cán bộ nhà nước đều có thể trở nên lạm quyền. Người chỉ rõ: “dân
+
+' Hồ Chí Minh: Toàn tập, Nxb Chính trị quốc gia, Hà Nội, 2011, t.6, tr.437.
+
+86

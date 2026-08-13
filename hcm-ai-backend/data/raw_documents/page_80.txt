@@ -1,40 +1,17 @@
-Hơn nữa, công nhân kiến quyết đấu tranh đòi rút ngắn ngày lao
- động.
-Quyền lợi hai bên có mâu thuẫn, thông qua đấu tranh, tuỳ tương
- quan lực lượng mà tại các dân tộc trong từng giai đoạn lịch sử cụ thể
- có thể quy định độ dài nhất định của ngày lao động.
-Tuy vậy, ngày lao
- động phải dài hơn thời gian lao động tất yếu và cũng không thể vượt giới
- hạn thể chất và tinh thần của người lao động.
-- Sản xuất giá trị thặng dư tương đối
-Giá trị thặng dư tương đối là giá trị thặng dư thu được nhờ rút ngắn
- thời gian lao động tất yếu;
-do đó kéo dài thời gian lao động thặng dư trong
- khi độ dài ngày lao động không thay đổi hoặc thậm chí rút ngắn.
-Ví dụ: ngày lao động 8 giờ, với 4 giờ lao động tất yếu, 4 giờ lao động
- thặng dư, tỷ suất giá trị thặng dư là 100%.
-Nếu giá trị sức lao động giảm
- khiến thời gian lao động tất yếu rút xuống còn 2 giờ thì thời gian lao động
- thặng dư sẽ là 6 giờ.
-Khi đó:
-$m^{prime}=frac{6~gi0}{2~gipartial}times100%=300%$
-Nếu ngày lao động giảm xuống còn 6 giờ nhưng giá trị sức lao động
- giảm khiến thời gian lao động tất yếu rút xuống còn 1 giờ thì thời gian lao
- động thặng dư sẽ là 5 giờ.
-Khi đó:
-$m^{prime}=frac{5~gihat{alpha}}{1~gihat{alpha}}times100%=500%$
-Để hạ thấp giá trị sức lao động thì phải giảm giá trị các tư liệu sinh
- hoạt và dịch vụ cần thiết để tái sản xuất sức lao động, do đó phải tăng năng
- suất lao động trong các ngành sản xuất ra tư liệu sinh hoạt và các ngành sản
- xuất ra tư liệu sản xuất để chế tạo ra tư liệu sinh hoạt đó.
-Trong thực tế, việc cải tiến kỹ thuật, tăng năng suất lao động diễn ra
- trước hết ở một hoặc vài xí nghiệp riêng biệt, làm cho hàng hoá do các xí
- nghiệp ấy sản xuất ra có giá trị cá biệt thấp hơn giá trị xã hội, và do đó, sẽ
- thu được một số giá trị thặng dư trội hơn so với các xí nghiệp khác.
-Phần
- giá trị thặng dư trội hơn đó là giá trị thặng dư siêu ngạch.
-Xét từng trường hợp đơn vị sản xuất cá biệt, giá trị thặng dư siêu
- ngạch là một hiện tượng tạm thời, xuất hiện rồi mất đi, nhưng xét toàn bộ
- xã hội tư bản thì giá trị thặng dư siêu ngạch lại là hiện tượng tồn tại thường
- xuyên.
-65
+Trong Nhà nước Việt Nam, bản chất giai cấp công nhân thống nhất với tính nhân dân và tính dân tộc. Hồ Chí Minh là người giải quyết rất thành công mối quan hệ giữa vấn đề dân tộc với vấn đề giai cấp trong cách mạng Việt Nam. Trong tư tưởng của Người về Nhà nước mới ở Việt Nam, bản chất giai cấp công nhân của Nhà nước thống nhất với tính nhân dân và tính dân tộc, thể hiện cụ thể như sau:
+
+Một là, Nhà nước Việt Nam ra đời là kết quả của cuộc đấu tranh lâu dài, gian khổ của rất nhiều thế hệ người Việt Nam, của toàn thể dân tộc. Từ giữa thế kỷ XIX, khi đất nước bị ngoại xâm, các tầng lớp nhân dân Việt Nam, hết thế hệ này đến đến thế hệ khác đã không quản hy sinh, xương máu chiến đấu cho độc lập, tự do của Tổ quốc. Từ khi Đảng Cộng sản Việt Nam ra đời, trở thành lực lượng lãnh đạo sự nghiệp cách mạng của dân tộc, với chiến lược đại đoàn kết đúng đắn, sức mạnh của toàn dân tộc đã được tập hợp và phát huy cao độ, chiến thắng ngoại xâm, giành lại độc lập, tự do, lập nên Nhà nước Việt Nam Dân chủ Cộng hòa - Nhà nước dân chủ nhân dân đầu tiên ở Đông Nam châu Á. Nhà nước Việt Nam mới, do vậy, không phải của riêng giai cấp, tầng lớp nào, mà là thuộc về nhân dân.
+
+Hai là, Nhà nước Việt Nam ngay từ khi ra đời đã xác định rõ và luôn kiên trì, nhất quán mục tiêu vì quyền lợi của nhân dân, lấy quyền lợi của dân tộc làm nền tảng. Bản chất của vấn đề này là ở chỗ, Hồ Chí Minh khẳng định quyền lợi cơ bản của giai cấp công nhân thống nhất với lợi ích của nhân dân lao động và của toàn dân tộc. Nhà nước Việt Nam mới là người đại diện, bảo vệ, đấu tranh không chỉ cho lợi ích của giai cấp công nhân, mà còn của nhân dân lao động và của toàn dân tộc.
+
+Ba là, trong thực tế, Nhà nước mới ở Việt Nam đã đảm đương nhiệm vụ mà toàn thể dân tộc giao phó là tổ chức nhân dân tiến hành các cuộc kháng chiến để bảo vệ nền độc lập, tự do của Tổ quốc, xây dựng một nước Việt Nam hòa bình, thống nhất, độc lập, dân chủ và giàu mạnh, góp phần tích cực vào sự phát triển tiến bộ của thế giới. Con đường quá độ lên chủ nghĩa xã hội và đi đến chủ nghĩa cộng sản là con đường mà Hồ Chí Minh và Đảng ta đã xác định, cũng là sự nghiệp của chính Nhà nước.
+
+b. Nhà nước của nhân dân
+
+Theo quan điểm của Hồ Chí Minh, nhà nước của nhân dân là nhà nước mà tất cả mọi quyền lực trong nhà nước và trong xã hội đều thuộc về nhân dân. Người khẳng định: “Trong Nhà nước Việt Nam Dân chủ Cộng hoà của chúng ta, tất cả mọi quyền lực đều là của nhân dân”. Nhà nước của dân tức là “dân là chủ”. Nguyên lý “dân là chủ” khẳng định địa vị chủ thể tối cao của mọi quyền lực là nhân dân.
+
+Trong Nhà nước dân chủ, nhân dân thực thi quyền lực thông qua hai hình thức dân chủ trực tiếp và dân chủ gián tiếp. Dân chủ trực tiếp là hình thức dân chủ trong đó
+
+1 Hồ Chí Minh: Toàn tập, Nxb Chính trị quốc gia, Hà Nội, 2011, t.8, tr.262.
+
+80
