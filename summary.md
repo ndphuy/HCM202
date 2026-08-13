@@ -78,7 +78,7 @@ Teacher images -> hcm-ai-backend/data/raw_documents/ -> auto-ingest on startup -
 
 ## Git
 
-Local: d:\Ky_8\HCM202 | master branch
+Local: d:\Ky_8\HCM202 | dev branch (default working branch)
 Remote: https://github.com/ndphuy/HCM202.git
 
 ---
