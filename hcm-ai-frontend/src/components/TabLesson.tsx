@@ -19,7 +19,7 @@ export default function TabLesson() {
       title: "2. Xây dựng nhà nước pháp quyền XHCN",
       content:
         "Mọi hoạt động của nhà nước phải tuân theo pháp luật. Không cá nhân hay tổ chức nào đứng trên pháp luật. Đây là bảo đảm thể chế cho nhà nước vì nhân dân.",
-      quote: '"Pháp luật là ý chí của giai cấp thống trị được nâng lên thành luật."',
+      quote: '"Luật pháp của ta là luật pháp dân chủ, là công cụ thực thi quyền lực của nhân dân." — Hồ Chí Minh',
     },
     {
       icon: Target,
