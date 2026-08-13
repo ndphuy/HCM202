@@ -22,6 +22,21 @@ interface TabQuizProps {
   documentUsed: string | null;
 }
 
+const formatDocName = (docName: string | null) => {
+  if (!docName) return "Tài liệu hệ thống";
+  return docName
+    .split(",")
+    .map((name) => {
+      const trimmed = name.trim();
+      const match = trimmed.match(/^page_?(\d+)(\.txt|\.pdf|\.docx)?$/i);
+      if (match) {
+        return `Trang ${match[1]}`;
+      }
+      return trimmed.replace(/\.[^/.]+$/, "").replace(/_/g, " ");
+    })
+    .join(", ");
+};
+
 export default function TabQuiz({
   quizQuestions,
   selectedAnswers,
@@ -42,40 +57,57 @@ export default function TabQuiz({
   const [numQuestions, setNumQuestions] = useState(3);
   const [difficulty, setDifficulty] = useState<"easy" | "medium" | "hard">("medium");
 
-  // Static Sample Questions about Case Study
+  // Static Sample Questions about HCM202
   const sampleQuestions: QuizQuestion[] = [
     {
       id: "q1",
-      question: "Hình thái tư bản nào của Alpha Corp đang bị 'mắc kẹt' khi thị trường đóng băng?",
+      question: "Trong Tư tưởng Hồ Chí Minh, bản chất của Nhà nước Việt Nam Dân chủ Cộng hòa mang bản chất của giai cấp nào?",
       options: [
-        "A. Tư bản tiền tệ (Tiền vay ngân hàng chưa giải ngân)",
-        "B. Tư bản sản xuất (Máy móc thiết bị đang hoạt động)",
-        "C. Tư bản hàng hóa (3 tòa tháp xây xong phần thô không bán được)",
-        "D. Tư bản cho vay (Khoản tiền lãi ngân hàng thu về)"
+        "A. Mang bản chất giai cấp tư sản",
+        "B. Mang bản chất của toàn dân (phi giai cấp)",
+        "C. Mang bản chất giai cấp công nhân",
+        "D. Mang bản chất giai cấp nông dân"
       ],
       correctIndex: 2,
       explanations: [
-        "Sai rồi. Tiền vay 10.000 tỷ đã được Alpha Corp dùng hết để mua đất, thuê nhân công và máy móc (đã chuyển hóa hoàn toàn).",
-        "Chưa chính xác. Tư bản sản xuất là máy móc và nhân công đang xây dựng, nhưng hiện tại dự án đã hoàn thành phần thô và đóng băng.",
-        "Chính xác! Do dự án đã hoàn thành phần thô (sản phẩm hoàn thiện một phần) nhưng không thể bán ra được, dòng vốn của doanh nghiệp bị mắc kẹt hoàn toàn dưới hình thái Hàng hóa (H').",
-        "Không đúng. Tư bản cho vay thuộc về phía ngân hàng thương mại cung cấp tín dụng cho Alpha Corp."
+        "Sai rồi. Nhà nước Việt Nam không mang bản chất giai cấp tư sản vì mục tiêu của cách mạng là đi lên CNXH.",
+        "Chưa chính xác. Theo Hồ Chí Minh, nhà nước ở đâu và bao giờ cũng mang bản chất của một giai cấp nhất định, không có nhà nước phi giai cấp.",
+        "Chính xác! Hiến pháp năm 1959 khẳng định: 'Nhà nước của ta là Nhà nước dân chủ nhân dân... do giai cấp công nhân lãnh đạo'.",
+        "Không đúng. Giai cấp nông dân là nòng cốt trong khối liên minh công - nông, nhưng lực lượng lãnh đạo và quyết định bản chất nhà nước là giai cấp công nhân."
       ]
     },
     {
       id: "q2",
-      question: "Để tuần hoàn tư bản diễn ra liên tục, Alpha Corp bắt buộc phải đáp ứng điều kiện gì?",
+      question: "Theo Hồ Chí Minh, yếu tố nào xác định phân biệt 'Dân là chủ' và 'Dân làm chủ' trong Nhà nước do nhân dân?",
       options: [
-        "A. Chỉ cần dự trữ nhiều tiền mặt trong tài khoản ngân hàng.",
-        "B. Tư bản phải đồng thời tồn tại ở cả 3 hình thái (Tiền tệ, Sản xuất, Hàng hóa) và kế tiếp nhau chuyển hóa.",
-        "C. Chỉ cần tập trung toàn bộ nguồn lực để xây dựng thật nhanh.",
-        "D. Chỉ cần thuê thật nhiều công nhân để tăng giá trị sử dụng."
+        "A. 'Dân là chủ' xác định vị thế quyền lực của nhân dân, còn 'Dân làm chủ' nhấn mạnh nghĩa vụ, trách nhiệm và năng lực làm chủ.",
+        "B. 'Dân là chủ' và 'Dân làm chủ' có nghĩa hoàn toàn giống nhau, chỉ là cách dùng từ khác nhau.",
+        "C. 'Dân làm chủ' có nghĩa là nhân dân có toàn quyền không cần tuân theo pháp luật.",
+        "D. 'Dân là chủ' chỉ áp dụng trong thời chiến, còn 'Dân làm chủ' áp dụng trong thời bình."
+      ],
+      correctIndex: 0,
+      explanations: [
+        "Chính xác! Bác Hồ phân biệt rõ: 'Dân là chủ' xác định vị thế tối cao về quyền lực, còn 'Dân làm chủ' nhấn mạnh nghĩa vụ, trách nhiệm và năng lực làm chủ của nhân dân.",
+        "Sai rồi. Đây là hai khái niệm bổ sung cho nhau nhưng có sắc thái và ý nghĩa khác nhau trong lý luận về nhà nước của Bác.",
+        "Không đúng. Nhân dân làm chủ phải tuân theo pháp luật của Nhà nước, giữ gìn trật tự chung và đóng góp xây dựng đất nước.",
+        "Không chính xác. Cả hai nguyên tắc này đều xuyên suốt trong cả thời chiến và thời bình."
+      ]
+    },
+    {
+      id: "q3",
+      question: "Quan điểm của Hồ Chí Minh về mối quan hệ giữa cán bộ nhà nước và nhân dân trong Nhà nước vì dân là gì?",
+      options: [
+        "A. Cán bộ nhà nước là quan lại cai trị, nhân dân là người thụ động phục tùng.",
+        "B. Cán bộ vừa là đày tớ (công bộc) trung thành, vừa là người lãnh đạo minh mẫn của nhân dân.",
+        "C. Cán bộ chỉ có trách nhiệm ban phát phúc lợi mà không cần lắng nghe ý kiến nhân dân.",
+        "D. Cán bộ nhà nước được hưởng đặc quyền đặc lợi lớn hơn nhân dân."
       ],
       correctIndex: 1,
       explanations: [
-        "Không đủ. Nếu chỉ giữ tiền mặt mà không đưa vào sản xuất thì tư bản không thể sinh lời.",
-        "Chính xác! Theo lý luận của C. Mác, sự tuần hoàn của tư bản chỉ tiến hành một cách bình thường khi ba hình thái cùng tồn tại đồng thời trong không gian và kế tiếp nhau chuyển hóa trong thời gian.",
-        "Sai rồi. Dồn hết lực xây dựng (chuyển hết vốn sang sản xuất/hàng hóa) mà không giữ lại tiền để trả lãi hay duy trì bộ máy sẽ gây đứt gãy dòng tuần hoàn như trường hợp Alpha Corp.",
-        "Không đúng. Công nhân tạo ra giá trị thặng dư nhưng tuần hoàn tư bản đòi hỏi toàn bộ các giai đoạn chuyển hóa (Tiền - Sản xuất - Hàng hóa) đều phải thông suốt."
+        "Sai rồi. Hồ Chí Minh kiên quyết phê phán tư tưởng quan cách cách mạng và thói quan liêu cai trị.",
+        "Chính xác! Bác dạy: Cán bộ vừa là đày tớ tận tụy phục vụ lợi ích của dân, vừa là người lãnh đạo sáng suốt chỉ đường cho nhân dân.",
+        "Chưa đúng. Nhà nước vì dân đòi hỏi cán bộ phải thường xuyên lắng nghe, tôn trọng và học hỏi ý kiến từ nhân dân.",
+        "Không đúng. Nhà nước vì dân tuyệt đối không có đặc quyền đặc lợi, cán bộ phải cần, kiệm, liêm, chính, chí công vô tư."
       ]
     }
   ];
@@ -107,7 +139,7 @@ export default function TabQuiz({
               }`}
           >
             <Layers className="h-3.5 w-3.5" />
-            <span>Câu hỏi mẫu Alpha Corp</span>
+            <span>Câu hỏi mẫu HCM202</span>
           </button>
 
           <button
@@ -127,7 +159,7 @@ export default function TabQuiz({
       {quizMode === "sample" && (
         <div className="space-y-6 h-[580px] overflow-y-auto pr-1.5 scrollbar-thin">
           <div className="text-xs text-neutral-500">
-            Nội dung: Phân tích kiến thức thực hành dựa trên tình huống đứt gãy dòng vốn của Alpha Corp.
+            Nội dung: Các câu hỏi trắc nghiệm kiến thức cốt lõi Chương IV: Nhà nước của Dân, do Dân, vì Dân.
           </div>
           <div className="space-y-6">
             {sampleQuestions.map((q, qIdx) => (
@@ -196,7 +228,7 @@ export default function TabQuiz({
             {quizQuestions.length > 0 && !isGenerating && (
               <div className="flex items-center justify-between border-b border-neutral-900 pb-3 mb-4">
                 <div className="text-xs text-neutral-500">
-                  Nguồn tài liệu: <strong className="text-neutral-300">{documentUsed || "Tài liệu hệ thống"}</strong>
+                  Nguồn tài liệu: <strong className="text-neutral-300">{formatDocName(documentUsed)}</strong>
                 </div>
                 <button
                   onClick={() => setIsConfigOpen(true)}

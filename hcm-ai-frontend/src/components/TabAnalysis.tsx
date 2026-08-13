@@ -26,7 +26,7 @@ export default function TabAnalysis({ onQuickPrompt }: TabAnalysisProps) {
     },
     {
       label: "Phòng chống tham nhũng",
-      desc: "Chiến dịch \"đốt lò\" của BCH TW là vận dụng tư tưởng HCM: cán bộ phải là công bộc, nhà nước không thể bị tha hóa xa rời nhân dân.",
+      desc: "Chiến dịch \"đốt lò\" của Ban Chấp hành Trung ương Đảng là vận dụng tư tưởng HCM: cán bộ phải là công bộc của nhân dân, nhà nước không thể bị tha hóa xa rời nhân dân.",
       status: "warning",
     },
   ];

@@ -217,7 +217,7 @@ export default function PresentationApp() {
   // --- Tabs Metadata ---
   const tabs = [
     { label: "Trang chủ", icon: Home },
-    { label: "Bối cảnh LS", icon: History },
+    { label: "Bối cảnh lịch sử", icon: History },
     { label: "Lý thuyết", icon: BookOpen },
     { label: "Thực tiễn", icon: Globe },
     { label: "Bài học", icon: Lightbulb },
@@ -245,24 +245,23 @@ export default function PresentationApp() {
                 </h1>
                 {/* Health Indicator Dot */}
                 <div
-                  className={`h-2.5 w-2.5 rounded-full ${
-                    isBackendHealthy === null
-                      ? "bg-neutral-600 animate-pulse"
-                      : isBackendHealthy
+                  className={`h-2.5 w-2.5 rounded-full ${isBackendHealthy === null
+                    ? "bg-neutral-600 animate-pulse"
+                    : isBackendHealthy
                       ? "bg-emerald-500 shadow-md shadow-emerald-500/50"
                       : "bg-red-500 shadow-md shadow-red-500/50"
-                  }`}
+                    }`}
                   title={
                     isBackendHealthy === null
                       ? "Đang kiểm tra kết nối Backend..."
                       : isBackendHealthy
-                      ? "Backend hoạt động tốt"
-                      : "Mất kết nối Backend!"
+                        ? "Backend hoạt động tốt"
+                        : "Mất kết nối Backend!"
                   }
                 />
               </div>
               <p className="text-[10px] text-neutral-400">
-                HCM202 · Chương IV: Nhà nước của ND, do ND, vì ND
+                HCM202 · Chương IV: Nhà nước của Dân, do Dân, vì Dân
               </p>
             </div>
           </div>
@@ -277,11 +276,10 @@ export default function PresentationApp() {
                   <button
                     key={idx}
                     onClick={() => setActiveTab(idx)}
-                    className={`flex items-center gap-1.5 px-3 py-2 rounded-lg text-xs md:text-sm font-semibold tracking-wide transition-all duration-300 cursor-pointer shrink-0 ${
-                      isActive
-                        ? "bg-crimson text-white shadow-md shadow-crimson/20"
-                        : "text-neutral-400 hover:text-white hover:bg-neutral-900/50"
-                    }`}
+                    className={`flex items-center gap-1.5 px-3 py-2 rounded-lg text-xs md:text-sm font-semibold tracking-wide transition-all duration-300 cursor-pointer shrink-0 ${isActive
+                      ? "bg-crimson text-white shadow-md shadow-crimson/20"
+                      : "text-neutral-400 hover:text-white hover:bg-neutral-900/50"
+                      }`}
                   >
                     <IconComponent className="h-4 w-4" />
                     <span className="hidden sm:inline">{tab.label}</span>

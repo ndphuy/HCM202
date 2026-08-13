@@ -40,7 +40,7 @@ export default function TabCaseStudy() {
       <div className="flex items-center gap-2.5 text-crimson-bright border-b border-neutral-900 pb-4">
         <History className="h-6 w-6" />
         <h3 className="text-xl md:text-2xl font-bold uppercase tracking-wider">
-          Bối Cảnh Lịch Sử Ra Đời Tư Tưởng
+          Bối Cảnh Lịch Sử
         </h3>
       </div>
 
@@ -83,11 +83,10 @@ export default function TabCaseStudy() {
               className="flex items-start gap-3 bg-neutral-900/40 p-4 rounded-xl border border-neutral-800"
             >
               <div
-                className={`shrink-0 px-2.5 py-1 rounded-lg text-xs font-bold ${
-                  item.color === "crimson"
+                className={`shrink-0 px-2.5 py-1 rounded-lg text-xs font-bold ${item.color === "crimson"
                     ? "bg-crimson/20 text-crimson-bright border border-crimson/40"
                     : "bg-gold/20 text-gold-bright border border-gold/40"
-                }`}
+                  }`}
               >
                 {item.year}
               </div>
