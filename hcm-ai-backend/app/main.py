@@ -31,43 +31,18 @@ logger = logging.getLogger(__name__)
 async def lifespan(app: FastAPI):
     """
     Startup/shutdown lifecycle.
-
-    On startup:
-    1. Ensure data directories exist.
-    2. Pre-load the embedding model (first-time download ~2.2 GB).
-    3. Batch-ingest any documents found in RAW_DOCUMENTS_DIR.
+    Ensures data directories exist and starts FastAPI immediately.
     """
     settings = get_settings()
     settings.ensure_dirs()
 
     logger.info("=" * 60)
-    logger.info("MLN AI Study Assistant — Starting up")
+    logger.info("HCM202 AI Study Assistant — Starting up")
     logger.info("=" * 60)
 
-    # Pre-load embedding model
-    try:
-        logger.info("Pre-loading embedding model: %s", settings.EMBEDDING_MODEL)
-        from app.rag.embeddings import get_model
-        get_model()
+    yield  # App is running instantly
 
-        # Batch-ingest documents from the raw_documents directory
-        logger.info("Scanning for documents in: %s", settings.RAW_DOCUMENTS_DIR)
-        from app.rag.ingest import batch_ingest_directory
-        results = batch_ingest_directory(settings.RAW_DOCUMENTS_DIR)
-        if results:
-            logger.info("Auto-ingested %d document(s):", len(results))
-            for r in results:
-                logger.info("  • %s (%s) — %d chunks", r["name"], r["document_id"], r["num_chunks"])
-        else:
-            logger.info("No documents found to auto-ingest.")
-    except Exception as e:
-        logger.error("Error during startup pre-loading: %s", e)
-
-    logger.info("=" * 60)
-    logger.info("Ready to serve requests!")
-    logger.info("=" * 60)
-
-    yield  # App is running
+    logger.info("Shutting down HCM202 AI Study Assistant.")
 
     # Shutdown
     logger.info("Shutting down MLN AI Study Assistant.")
