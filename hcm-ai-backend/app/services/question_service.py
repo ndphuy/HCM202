@@ -48,13 +48,15 @@ def _get_random_documents_text(num_docs: int = 3) -> tuple[str, str]:
         batch_ingest_directory(settings.RAW_DOCUMENTS_DIR)
 
     if not document_registry:
-        raise HTTPException(
-            status_code=503,
-            detail=(
-                "No documents are ingested yet. "
-                "The server is still starting up or the documents directory is empty."
-            ),
+        logger.warning("No document registry found even after ingest attempt — using fallback textbook content.")
+        fallback_text = (
+            "Giáo trình Tư tưởng Hồ Chí Minh - Chương IV: Nhà nước của dân, do dân, vì dân.\n"
+            "1. Nhà nước của nhân dân: Tất cả quyền lực trong nhà nước thuộc về nhân dân. Nhân dân là người chủ tối cao của đất nước.\n"
+            "2. Nhà nước do nhân dân: Nhà nước do nhân dân lập nên thông qua bầu cử dân chủ, do nhân dân ủng hộ, nuôi dưỡng, đóng thuế và tham gia quản lý.\n"
+            "3. Nhà nước vì nhân dân: Nhà nước phục vụ lợi ích và nguyện vọng chính đáng của nhân dân, không có đặc quyền đặc lợi, cán bộ là công bộc của dân.\n"
+            "4. Bản chất giai cấp công nhân kết hợp với tính nhân dân và tính dân tộc sâu sắc của Nhà nước Việt Nam."
         )
+        return "Giáo trình Tư tưởng Hồ Chí Minh (Chương IV)", fallback_text
     
     # Pick a random sample of document IDs
     doc_ids = list(document_registry.keys())
