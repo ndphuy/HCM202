@@ -41,6 +41,12 @@ def _get_random_documents_text(num_docs: int = 3) -> tuple[str, str]:
     Raises:
         HTTPException 503 if no documents are ingested yet.
     """
+    settings = get_settings()
+    if not document_registry:
+        logger.info("document_registry is empty — auto-ingesting documents from %s", settings.RAW_DOCUMENTS_DIR)
+        from app.rag.ingest import batch_ingest_directory
+        batch_ingest_directory(settings.RAW_DOCUMENTS_DIR)
+
     if not document_registry:
         raise HTTPException(
             status_code=503,
