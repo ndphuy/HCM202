@@ -9,6 +9,7 @@ from typing import Literal
 
 from fastapi import HTTPException
 
+from app.core.config import get_settings
 from app.core.prompts import MCQ_GENERATION_PROMPT
 from app.llm.gemini_client import generate_mcq_json
 from app.rag.ingest import document_registry
