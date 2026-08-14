@@ -37,10 +37,11 @@ def check_relevance(query: str) -> tuple[bool, Optional[str]]:
     settings = get_settings()
     collection = get_chroma_collection()
 
-    # If no documents are ingested, we can't check relevance — allow through
+    # If no documents are ingested, auto-ingest raw documents
     if collection.count() == 0:
-        logger.warning("No documents ingested — skipping relevance check.")
-        return True, None
+        logger.info("No documents ingested — auto-ingesting raw documents from %s", settings.RAW_DOCUMENTS_DIR)
+        from app.rag.ingest import batch_ingest_directory
+        batch_ingest_directory(settings.RAW_DOCUMENTS_DIR)
 
     query_embedding = embed_query(query)
 
