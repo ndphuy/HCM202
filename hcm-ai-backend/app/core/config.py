@@ -23,12 +23,15 @@ class Settings(BaseSettings):
     # --- Embeddings ---
     EMBEDDING_MODEL: str = "intfloat/multilingual-e5-small"
 
+    # --- Base Directory ---
+    BASE_DIR: Path = Path(__file__).resolve().parent.parent.parent
+
     # --- ChromaDB ---
-    CHROMA_PERSIST_DIR: str = "./data/chroma_db"
+    CHROMA_PERSIST_DIR: str = str(Path(__file__).resolve().parent.parent.parent / "data" / "chroma_db")
 
     # --- Document ingestion ---
-    RAW_DOCUMENTS_DIR: str = "./data/raw_documents"
-    PARSED_TEXT_CACHE_DIR: str = "./data/parsed_text"
+    RAW_DOCUMENTS_DIR: str = str(Path(__file__).resolve().parent.parent.parent / "data" / "raw_documents")
+    PARSED_TEXT_CACHE_DIR: str = str(Path(__file__).resolve().parent.parent.parent / "data" / "parsed_text")
 
     # --- RAG tuning ---
     RELEVANCE_THRESHOLD: float = 0.45
