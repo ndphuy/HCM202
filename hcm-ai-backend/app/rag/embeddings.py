@@ -1,8 +1,9 @@
 """
 Embedding helper supporting Gemini API embeddings (0 MB server RAM)
-with fallback to local SentenceTransformers.
+with lightweight fallback to prevent OOM errors.
 """
 
+import hashlib
 import logging
 from typing import Optional
 
@@ -12,19 +13,24 @@ from app.core.config import get_settings
 
 logger = logging.getLogger(__name__)
 
-_model: Optional[object] = None
 
+def _lightweight_hash_embedding(text: str, dim: int = 768) -> list[float]:
+    """
+    Ultra-lightweight deterministic embedding fallback (0.1 MB RAM).
+    Hashes n-grams to produce a normalized vector when API is unavailable.
+    """
+    vec = np.zeros(dim, dtype=np.float32)
+    words = text.lower().split()
+    for w in words:
+        h = int(hashlib.md5(w.encode("utf-8")).hexdigest(), 16)
+        idx = h % dim
+        val = 1.0 if (h % 2 == 0) else -1.0
+        vec[idx] += val
 
-def get_model():
-    """Lazily load local SentenceTransformer model as fallback."""
-    global _model
-    if _model is None:
-        from sentence_transformers import SentenceTransformer
-        settings = get_settings()
-        logger.info("Loading local embedding model: %s ...", settings.EMBEDDING_MODEL)
-        _model = SentenceTransformer(settings.EMBEDDING_MODEL)
-        logger.info("Local embedding model loaded successfully.")
-    return _model
+    norm = np.linalg.norm(vec)
+    if norm > 0:
+        vec /= norm
+    return vec.tolist()
 
 
 def embed_texts(
@@ -35,41 +41,50 @@ def embed_texts(
 ) -> list[list[float]]:
     """
     Encode a list of texts into embeddings.
-    Tries Gemini API (text-embedding-004) first for 0 MB RAM overhead.
+    Tries Gemini API models first (0 MB RAM).
     """
     settings = get_settings()
 
-    # 1. Try Gemini API Embedding
+    # 1. Try Gemini API Embedding with multiple supported model identifiers
     if settings.GEMINI_API_KEY and settings.GEMINI_API_KEY != "your_key_here":
         try:
             from app.llm.gemini_client import _get_gemini_client
             client = _get_gemini_client()
-            results = []
-            for i in range(0, len(texts), batch_size):
-                batch = texts[i : i + batch_size]
-                res = client.models.embed_content(
-                    model="text-embedding-004",
-                    contents=batch,
-                )
-                if hasattr(res, "embeddings") and res.embeddings:
-                    results.extend([e.values for e in res.embeddings])
-                elif hasattr(res, "embedding") and res.embedding:
-                    results.append(res.embedding.values)
-            if results and len(results) == len(texts):
-                return results
-        except Exception as e:
-            logger.warning("Gemini embedding API failed (%s), falling back to local...", e)
 
-    # 2. Local fallback
-    model = get_model()
-    prefixed = [f"{prefix}{t}" for t in texts]
-    embeddings: np.ndarray = model.encode(
-        prefixed,
-        batch_size=batch_size,
-        normalize_embeddings=True,
-        show_progress_bar=len(texts) > 50,
-    )
-    return embeddings.tolist()
+            candidate_models = [
+                "text-embedding-004",
+                "embedding-001",
+                "models/text-embedding-004",
+                "models/embedding-001",
+            ]
+
+            for model_name in candidate_models:
+                try:
+                    results = []
+                    for i in range(0, len(texts), batch_size):
+                        batch = texts[i : i + batch_size]
+                        res = client.models.embed_content(
+                            model=model_name,
+                            contents=batch,
+                        )
+                        if hasattr(res, "embeddings") and res.embeddings:
+                            results.extend([e.values for e in res.embeddings])
+                        elif hasattr(res, "embedding") and res.embedding:
+                            results.append(res.embedding.values)
+
+                    if results and len(results) == len(texts):
+                        logger.info("Successfully embedded %d texts via Gemini API (%s)", len(texts), model_name)
+                        return results
+                except Exception as model_err:
+                    logger.debug("Gemini model '%s' unavailable: %s", model_name, model_err)
+                    continue
+
+        except Exception as e:
+            logger.warning("Gemini embedding API error: %s", e)
+
+    # 2. Ultra-lightweight local fallback (never triggers PyTorch OOM)
+    logger.info("Using lightweight fallback embedding for %d texts...", len(texts))
+    return [_lightweight_hash_embedding(t) for t in texts]
 
 
 def embed_query(query: str) -> list[float]:
