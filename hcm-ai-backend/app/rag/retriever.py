@@ -33,10 +33,11 @@ def retrieve(query: str, top_k: int | None = None) -> list[dict]:
 
     collection = get_chroma_collection()
 
-    # If the collection is empty, return nothing
+    # If the collection is empty, auto-ingest raw_documents
     if collection.count() == 0:
-        logger.warning("ChromaDB collection is empty — no documents ingested yet.")
-        return []
+        logger.info("ChromaDB collection is empty — auto-ingesting documents from %s", settings.RAW_DOCUMENTS_DIR)
+        from app.rag.ingest import batch_ingest_directory
+        batch_ingest_directory(settings.RAW_DOCUMENTS_DIR)
 
     query_embedding = embed_query(query)
 
