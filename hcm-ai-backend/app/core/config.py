@@ -21,7 +21,7 @@ class Settings(BaseSettings):
     GROQ_MODEL: str = "llama-3.3-70b-versatile"
 
     # --- Embeddings ---
-    EMBEDDING_MODEL: str = "intfloat/multilingual-e5-large"
+    EMBEDDING_MODEL: str = "intfloat/multilingual-e5-small"
 
     # --- ChromaDB ---
     CHROMA_PERSIST_DIR: str = "./data/chroma_db"
